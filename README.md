@@ -34,4 +34,4 @@
 
 <!-- GitHub Stats -->
 ## GitHub 통계 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakisung&show_icons=true&count_private=true&theme=radical)
