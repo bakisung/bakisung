@@ -20,8 +20,9 @@
 
 <!-- Projects -->
 ## 프로젝트 🛠️
-[![Project 1](https://img.shields.io/badge/Project%201-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
-[![Project 2](https://img.shields.io/badge/Project%202-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
+[![개인 프로젝트](https://img.shields.io/badge/개인%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
+[![최종 프로젝트](https://img.shields.io/badge/최종%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
+[![중급 프로젝트](https://img.shields.io/badge/중급%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project3)
 
 <!-- Blog -->
 ## 블로그 ✍️
