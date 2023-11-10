@@ -23,11 +23,11 @@
 
 <!-- Blog -->
 ## 블로그 ✍️
-- Link: https://blog.naver.com/jhoo2606
+- Link : https://blog.naver.com/jhoo2606
 
 <!-- Contact -->
 ## 연락처 📬
-- Email: [jhoo2606@naver.com](mailto:jhoo2606@naver.com)
+- Email : [jhoo2606@naver.com](mailto:jhoo2606@naver.com)
 
 <!-- GitHub Stats -->
 ## GitHub 통계 📈
