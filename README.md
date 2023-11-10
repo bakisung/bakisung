@@ -32,6 +32,7 @@
 ## 연락처 📬
 - Email : [jhoo2606@naver.com](mailto:jhoo2606@naver.com)  
 
+
 <!-- GitHub Stats -->
 ## GitHub 통계 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakisung&show_icons=true&count_private=true&theme=radical)
