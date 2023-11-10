@@ -3,7 +3,7 @@
 
 
 <!-- Introduction -->
-# 안녕하심까!✋🏻
+# 안녕하심까! ✋🏻
 
 베테랑 개발자를 꿈꾸는 열정 가득한 신입 박희성이라고 합니다.  
 저는 국비지원을 통한 웹개발자 풀스택 과정을 수료하였습니다.  
@@ -25,7 +25,7 @@
 [![중급 프로젝트](https://img.shields.io/badge/중급%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=#FF6666)](https://github.com/yourusername/project3)
 
 <!-- Blog -->
-## 블로그 ✍️
+## 블로그 🧾
 - Link : https://blog.naver.com/jhoo2606
 
 <!-- Contact -->
