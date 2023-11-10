@@ -7,7 +7,7 @@
 <h1 align="center">안녕하세요! 👋</h1>
 
 <p align="center">
-  저는 [이름]이라고 합니다. [현재 직업 또는 전문 분야]에 종사하고 있으며, 개발과 디자인에 관심을 가지고 있습니다. 💻✨
+  저는 [이름]이라고 합니다. [현재 직업 또는 전문 분야]에 종사하고 있으며, 개발과 디자인에 관심을 가지고 있습니다.
 </p>
 
 <!-- Social Badges -->
@@ -18,7 +18,6 @@
   <a href="https://twitter.com/yourtwitter">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourtwitter?label=Follow&style=social">
   </a>
-  <!-- Add more social badges as needed -->
 </p>
 
 <!-- Tech Stack -->
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <!-- Add more tech stack badges as needed -->
 </p>
 
 <!-- Projects -->
@@ -42,7 +40,6 @@
   <a href="https://github.com/yourusername/project2">
     <img src="https://img.shields.io/badge/-Project%202-239120?style=flat-square&logo=github&logoColor=white" alt="Project 2" />
   </a>
-  <!-- Add more project badges as needed -->
 </p>
 
 <!-- Blog -->
