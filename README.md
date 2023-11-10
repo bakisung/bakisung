@@ -22,9 +22,9 @@
 
 <!-- Projects -->
 ## 프로젝트 🛠️
-[![개인 프로젝트](https://img.shields.io/badge/개인%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=FFCC66)](https://github.com/yourusername/project1)
-[![최종 프로젝트](https://img.shields.io/badge/최종%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=3399FF)](https://github.com/yourusername/project2)
-[![중급 프로젝트](https://img.shields.io/badge/중급%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6666)](https://github.com/yourusername/project3)
+[![개인 프로젝트](https://img.shields.io/badge/개인%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=#FFCC66)](https://github.com/yourusername/project1)
+[![최종 프로젝트](https://img.shields.io/badge/최종%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=#3399FF)](https://github.com/yourusername/project2)
+[![중급 프로젝트](https://img.shields.io/badge/중급%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=#FF6666)](https://github.com/yourusername/project3)
 
 <!-- Blog -->
 ## 블로그 ✍️
