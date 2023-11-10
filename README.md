@@ -33,7 +33,8 @@
 
 <!-- Contact -->
 ## 연락처 📬
-[Email](mailto:youremail@gmail.com) | [Blog](https://yourblog.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/)
+Email : jhoo2606@naver.com  
+Blog : [https://blog.naver.com/jhoo2606](https://blog.naver.com/jhoo2606)  
 
 <!-- GitHub Stats -->
 ## GitHub 통계 📈
