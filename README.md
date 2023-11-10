@@ -28,13 +28,11 @@
 
 <!-- Blog -->
 ## 블로그 ✍️
-최근 블로그 글이나 다른 글에 대한 링크가 들어갈 수 있습니다.
-[블로그 글 링크]
+[블로그 글 링크]](https://blog.naver.com/jhoo2606)
 
 <!-- Contact -->
 ## 연락처 📬
 - Email: [jhoo2606@naver.com](mailto:jhoo2606@naver.com)
-- Blog: [https://blog.naver.com/jhoo2606](https://blog.naver.com/jhoo2606)
 
 <!-- GitHub Stats -->
 ## GitHub 통계 📈
