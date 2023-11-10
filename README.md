@@ -13,15 +13,15 @@
 
 <!-- Tech Stack -->
 ## 기술 스택 🚀
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- Projects -->
 ## 프로젝트 🛠️
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+[![Project 1](https://img.shields.io/badge/Project%201-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
+[![Project 2](https://img.shields.io/badge/Project%202-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
 
 <!-- Blog -->
 ## 블로그 ✍️
