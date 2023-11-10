@@ -13,11 +13,6 @@
 우선적으로는 Unix, AWS에 대해 공부하고자 하며, 백엔드 로드맵을 통해 꼬리물기 식으로 공부하고자 합니다.  
 또한 취직과 동시에 학점은행제로 4년제 학위를 취득하여, 정보처리기사 자격증을 취득하고자 합니다.
 
-<!-- Social Badges -->
-## 소셜 뱃지
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitter?label=Follow&style=social)](https://twitter.com/yourtwitter)
-
 <!-- Tech Stack -->
 ## 기술 스택 🚀
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E) ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white&labelColor=0769AD) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=007396) ![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white&labelColor=000000) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=F80000) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=6DB33F) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&labelColor=6DB33F) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=563D7C)
