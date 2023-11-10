@@ -24,7 +24,13 @@
 [![최종 프로젝트](https://img.shields.io/badge/최종%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=#3399FF)](https://github.com/yourusername/project2)
 [![중급 프로젝트](https://img.shields.io/badge/중급%20프로젝트-239120?style=for-the-badge&logo=github&logoColor=white&labelColor=#FF6666)](https://github.com/yourusername/project3)
 
-## 블로그 ✍️ - [Link](https://blog.naver.com/jhoo2606) | 연락처 📬 - Email: [jhoo2606@naver.com](mailto:jhoo2606@naver.com)
+<!-- Blog -->
+## 블로그 ✍️
+- Link : https://blog.naver.com/jhoo2606
+
+<!-- Contact -->
+## 연락처 📬
+- Email : [jhoo2606@naver.com](mailto:jhoo2606@naver.com)
 
 <!-- GitHub Stats -->
 ## GitHub 통계 📈
