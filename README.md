@@ -28,7 +28,7 @@
 
 <!-- Blog -->
 ## 블로그 ✍️
-[블로그 글 링크]](https://blog.naver.com/jhoo2606)
+Link: [https://blog.naver.com/jhoo2606]
 
 <!-- Contact -->
 ## 연락처 📬
